@@ -2,15 +2,12 @@
 
 - :computer: Computer Science Student 
 - :pencil: Learning: Data Science, Machine Learning (Neural Networks, NLP, Graph Neural Networks), AI, Software Engineering 
-- :earth_americas: I can speak: Portuguese (Native), English (Fluent), Spanish (kind of), Some french sentences (like je ne parle pas français)
-- :information_desk_person: I like:
-    - Gaming (i am very bad at valorant) 
-    - Movies (i only like bad ones, like Harry Potter)
-    - Series (never finished Breaking Bad)
+- :earth_americas: I can speak: Portuguese (Native), English (Fluent), Spanish (Intermediate), French (Beginner)
+- :information_desk_person: Things I like:
+    - Gaming 
+    - Movies, Series 
     - Music (Linkin Park, Sticky Fingers, Slipknot, The Vanns, Nirvana, ...)
     - [my dog (geraldo)](https://drive.google.com/file/d/1xNboLhO6pLRrGBVP53J-jfZFRTpOG7QI/view?usp=sharing)
-    - beer (only on weekends!) 
-    - my friends (some of them)
 
 ## Languages and Tools I use:
 <div align="left"> 
