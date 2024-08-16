@@ -1,7 +1,7 @@
 # Hi there, I'm Thiago :wave:
 
-- :computer: Computer Science Student 
-- :pencil: Learning: Data Science, Machine Learning (Neural Networks, NLP, Graph Neural Networks), AI, Software Engineering 
+- :computer: Software Engineer / Computer Science Student 
+- :pencil: Learning: Data Science, Machine Learning, Software Engineering 
 - :earth_americas: I can speak: Portuguese (Native), English (Fluent), Spanish (Intermediate), French (Beginner)
 - :information_desk_person: Things I like:
     - Gaming 
