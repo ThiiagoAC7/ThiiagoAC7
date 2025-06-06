@@ -1,12 +1,12 @@
 # Hi there, I'm Thiago :wave:
 
-- :computer: Software Engineer / Computer Science Student 
-- :pencil: Learning: Data Science, Machine Learning, Software Engineering 
+- :computer: Computer Science Student 
+- :pencil: Learning: Data Science, Machine Learning, Graph theory, Social Networks
 - :earth_americas: I can speak: Portuguese (Native), English (Fluent), Spanish (Intermediate), French (Beginner)
 - :information_desk_person: Things I like:
     - Gaming 
     - Movies, Series 
-    - Music (Linkin Park, Sticky Fingers, Slipknot, The Vanns, Nirvana, ...)
+    - Music
     - [my dog (geraldo)](https://drive.google.com/file/d/1xNboLhO6pLRrGBVP53J-jfZFRTpOG7QI/view?usp=sharing)
 
 ## Languages and Tools I use:
